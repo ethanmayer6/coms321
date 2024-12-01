@@ -1,0 +1,1 @@
+python disassembler.py "$1"
